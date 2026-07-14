@@ -223,11 +223,11 @@ I combine my healthcare background with data analytics to transform healthcare a
 
 📧 **Email:** anitaokechukwu927@gmail.com
 
-🔗 **GitHub:** *Add your GitHub profile link here*
+🔗 **GitHub:** *https://github.com/anitaokechukwu*
 
-💼 **LinkedIn:** *Add your LinkedIn profile link here*
+💼 **LinkedIn:** *https://www.linkedin.com/in/okechukwu-anita/*
 
-🌐 **Portfolio:** *Add your portfolio website link here*
+🌐 **Portfolio:** *https://anitaokechukwu.github.io/*
 
 ---
 
